@@ -1,0 +1,140 @@
+---
+title: "SSS Class Content Creator (3SC)"
+subtitle: "Advice for clearer academic writing"
+authors: "Yuriel Ryan"
+date: last-modified
+---
+
+## Introduction
+
+Good academic writing is built from small, repeatable techniques.
+This page is a collection of **writing advice** — sentence-level and
+paragraph-level patterns that researchers use to structure arguments, signal
+relationships between ideas, and guide readers through their article.
+
+::: {.callout-note}
+These are techniques, not rules. Learn the pattern first, then develop your
+own voice around it.
+:::
+
+---
+
+## Listing Points
+
+### Two-Point Structure
+
+When contrasting or pairing two ideas, a balanced construction makes the
+relationship explicit.
+
+| Pattern | Example |
+|---|---|
+| `X, while Y` | "Method A is fast, while Method B is more accurate." |
+| `X; however, Y` | "The baseline performs well on clean data; however, it degrades under noise." |
+| `On the one hand … On the other hand …` | Opens a paragraph that weighs two perspectives before taking a position. |
+| `Both X and Y …` | "Both approaches rely on attention mechanisms, but differ in how they apply them." |
+
+### Three-Point Structure
+
+Three-point lists give arguments a sense of completeness.
+Use one of these scaffolds when you have three parallel claims.
+
+| Pattern | Example |
+|---|---|
+| `First … Second … Finally …` | Sequential or ranked claims. |
+| `X, Y, and Z` | Flat list; order implies nothing. |
+| `Not only X, but also Y — and crucially, Z` | Builds to the most important point last. |
+
+::: {.callout-tip}
+Avoid four-item lists in body paragraphs — they read as a dump, not an argument.
+If you have four points, either cut one or break into two separate ideas.
+:::
+
+---
+
+## Signposting Contrast
+
+Contrast signals tell the reader that something unexpected or opposing is coming.
+Choosing the right one changes the strength of the contrast.
+
+| Signal word / phrase | Strength | Use when… |
+|---|---|---|
+| `however` | medium | the contrast is important but not surprising |
+| `yet` | medium-light | the contrast is slightly unexpected |
+| `nevertheless` / `nonetheless` | strong | the contrast holds despite strong counter-pressure |
+| `in contrast` | medium | comparing two distinct things side by side |
+| `whereas` | medium | pointing out a difference within the same sentence |
+| `despite X, Y` | strong | Y is true even though X argues against it |
+| `although` / `even though` | varies | softening a concession before asserting the main point |
+
+**Example of a weak contrast:**
+> "The model is fast. It is also inaccurate."
+
+**Revised with a contrast signal:**
+> "The model is fast; however, it sacrifices accuracy under distribution shift."
+
+---
+
+## Signposting Agreement and Addition
+
+Use these to build an argument cumulatively.
+
+| Signal | Use when… |
+|---|---|
+| `Furthermore` / `Moreover` | adding a point that strengthens or extends the previous one |
+| `In addition` | adding a related but separate point |
+| `Similarly` | the next point mirrors the structure of the previous one |
+| `Likewise` | same as similarly, slightly more formal |
+| `Indeed` | reinforcing or intensifying the point just made |
+
+---
+
+## Hedging Language
+
+Academic claims are rarely absolute. Hedging signals your confidence level
+and protects you from over-claiming.
+
+| Hedge level | Examples |
+|---|---|
+| Strong claim | "X causes Y." |
+| Moderate | "X appears to cause Y." / "X tends to cause Y." |
+| Weak | "X may contribute to Y." / "There is some evidence that X influences Y." |
+| Attributed | "According to [Author et al., Year], X leads to Y." |
+
+::: {.callout-caution}
+Under-hedging (over-claiming) is one of the most common reasons reviewers
+push back. When in doubt, hedge — but do not hedge so much that your claim
+disappears entirely.
+:::
+
+---
+
+## Topic Sentences
+
+Every paragraph should open with a **topic sentence** that states the
+paragraph's single claim. The rest of the paragraph supports it.
+
+**Weak opening (announces the topic, not a claim):**
+> "This section discusses the limitations of our approach."
+
+**Strong opening (makes a claim):**
+> "Our approach has three limitations that constrain its applicability to
+> low-resource settings."
+
+---
+
+## Tips from Graduate Students
+
+> *(Contributions welcome — share what has worked for you!)*
+
+---
+
+## Tips from Professors
+
+> *(Contributions welcome.)*
+
+---
+
+## Resources
+
+- [How To Train Your Researcher (HTTYR)](httyr.qmd) — EROP mentorship guide
+- [Omniscient Reader's Viewpoint (ORV)](orv.qmd) — tips on reading papers
