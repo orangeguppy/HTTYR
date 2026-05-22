@@ -19,6 +19,7 @@ own voice around it.
 
 # Writing as Thinking
 
+**TBA**.
 
 ---
 
@@ -68,7 +69,6 @@ If you have four points, either cut one or break into two separate ideas.
 ---
 
 # Signposting
-
 
 #### Signposting Disagreement
 Contrast signals tell the reader that something unexpected or opposing is coming.

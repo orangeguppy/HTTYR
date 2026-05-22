@@ -5,7 +5,7 @@ author: "Yuriel Ryan"
 date: last-modified
 ---
 
-## Introduction
+# Introduction
 
 Reading research papers is a skill --- it takes deliberate practice and good
 habits. This guide compiles advice from graduate students and professors on
@@ -29,28 +29,29 @@ This isn't a page that tells you "how to read a research paper". It's more of a 
 
 ---
 
-## The Three-Pass Method
+# The Three-Pass Method
 
-To start you off, the "three-pass method" is a well-known technique to become more efficient in your reading (some folks also refer to this as literature review).
+To start you off, the "three-pass method" is a well-known technique to become more efficient in your reading. "Efficiency" here means quickly identifying if a paper is even relevant to your research. There are many new and exciting stuff happening in the AI space everyday --- just look at the the number of papers submitted to [HuggingFace](https://huggingface.co/papers/date/). Your goal here is to learn how to filter out the noise and grab one or two key works to inform your hypotheses/experiments!
 
-### Pass 1 — The Bird's Eye View (5–10 min)
+### Pass 1 — The Bird's Eye View
 
 Read: title, abstract, section headings, figures and captions, conclusion.
 
 **Goal:** Decide if the paper is worth a deeper read and form a rough hypothesis
 about what it does.
 
-### Pass 2 — Understanding the Contribution (30–60 min)
+### Pass 2 — Understanding the Contribution
 
 Read the body carefully, skipping proofs and implementation details.
 Pay attention to figures, tables, and the experimental section.
 
 **Goal:** Understand *what* the paper claims and *how* it was evaluated.
 
-### Pass 3 — Critical Reconstruction (1–3 hours)
+### Pass 3 — Investment
 
-Read everything, including appendices and referenced papers.
-Try to re-derive key results from scratch.
+Read the remaining sections, including appendices and referenced papers where needed.
+
+Repeat the experiments on their GitHub (if applicable)! This is the best way to understand what the authors are trying to do. More importantly, you can decide for yourself if this work is truly impactful/useful to your project.
 
 **Goal:** Deeply understand and critically evaluate the work.
 
@@ -64,27 +65,19 @@ Try to re-derive key results from scratch.
 - How strong is the experimental validation?
 - What are the limitations the authors acknowledge — and those they don't?
 
----
 
-## Taking Notes
+## Starting Points
 
-> *(Tips on note-taking strategies — to be added by contributors.)*
+Part of my research journey was figuring out which conferences are considered "reputable" and/or "impactful". While this list is **non-exhaustive**, I listed some of them here to help you (hopefully an aspiring AI researcher) find a starting point. 
 
----
 
-## Tips from Graduate Students
-
-> *(Contributions welcome — share what has worked for you!)*
+::: {.callout-note}
+  AI is often cross disciplinary! If you are working on such projects, please do your homework to find out which other venues --- both conferences and journals --- are considered *strong/impactful* for your field.
+:::
 
 ---
 
-## Tips from Professors
-
-> *(Contributions welcome.)*
-
----
-
-## Resources
+# Resources
 
 - [How To Train Your Researcher (HTTYR)](httyr.qmd) — EROP mentorship guide
 - [SSS Class Content Creator (3SC)](sss-content.qmd) — academic writing tips
