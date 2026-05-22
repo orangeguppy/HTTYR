@@ -31,3 +31,6 @@ format:
     toc: true
     toc-depth: 3
     code-copy: true
+
+editor:
+  render-on-save: true
